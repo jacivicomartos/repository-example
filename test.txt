@@ -1,7 +1,7 @@
 Añadiendo un cambio
 
-Añadiendo segundo cambio
+Modificando en segunda rama
 
 Añadiendo tercer cambio
 
-Cambio en rama
+Cambio en ramas
